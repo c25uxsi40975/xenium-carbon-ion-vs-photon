@@ -1,0 +1,7 @@
+*.zarr/
+roi_zarrs/
+geojson/
+data/
+results/
+__pycache__/
+.ipynb_checkpoints/
