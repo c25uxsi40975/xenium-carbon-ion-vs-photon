@@ -25,6 +25,8 @@ geopandas==1.1.2
 shapely==2.1.2
 dask==2026.1.1
 pyarrow==23.0.0
+scikit-image==0.26.0
+tifffile==2026.1.28
 
 decoupler==2.3.1
 pydeseq2==0.5.4
