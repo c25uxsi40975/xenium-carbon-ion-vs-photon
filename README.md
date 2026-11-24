@@ -1,4 +1,4 @@
-# Xenium analysis comparing carbon-ion irradiation with gamma-ray and X-ray irradiation
+# Spatial transcriptome analysis of connective tissue followed by carbon-ion irradiation and photon irradiation
 
 ```text
 mouse_analysis/       mouse jejunal samples, 14 sections on two slides (No1, No2)
